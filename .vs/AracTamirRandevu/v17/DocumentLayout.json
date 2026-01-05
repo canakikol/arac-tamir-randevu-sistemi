@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\models\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\models\\kullanici.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\anasayfa\\urunler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\anasayfa\\urunler.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\giris\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\giris\\kayitol.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\shared\\_secondlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\shared\\_secondlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\randevu\\randevuekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\randevu\\randevuekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\profil\\randevularim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\profil\\randevularim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\giris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\giris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\views\\giris\\admingirisi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\views\\giris\\admingirisi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\views\\yonetimpaneli\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\views\\yonetimpaneli\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\controllers\\yonetimpanelicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\controllers\\yonetimpanelicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\views\\randevu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\controllers\\randevucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|c:\\users\\hp\\desktop\\web prog \u00F6dev\\aractamirrandevumvc\\aractamirproje\\aractamirrandevu\\aractamirrandevu\\aractamirrandevumvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{214BBA42-0757-4A32-8874-D9BFCAEC85B0}|AracTamirRandevuMVC\\AracTamirRandevuMVC.csproj|solutionrelative:aractamirrandevumvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Randevu\\Index.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Randevu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Randevu\\Index.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Randevu\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:13:15.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Randevularim.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Profil\\Randevularim.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Profil\\Randevularim.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Profil\\Randevularim.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Profil\\Randevularim.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:12:48.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KayitOl.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\KayitOl.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Giris\\KayitOl.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\KayitOl.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Giris\\KayitOl.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAswGAAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:12:23.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\Index.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Giris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\Index.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Giris\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:11:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urunler.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Anasayfa\\Urunler.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Anasayfa\\Urunler.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Anasayfa\\Urunler.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Anasayfa\\Urunler.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:11:25.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kullanici.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Models\\Kullanici.cs",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Models\\Kullanici.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Models\\Kullanici.cs",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Models\\Kullanici.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:11:23.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Models\\Urun.cs",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Models\\Urun.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Models\\Urun.cs",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Models\\Urun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:04:29.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RandevuEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Randevu\\RandevuEkle.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Randevu\\RandevuEkle.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Randevu\\RandevuEkle.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Randevu\\RandevuEkle.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:13:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_SecondLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Shared\\_SecondLayout.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Shared\\_SecondLayout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Shared\\_SecondLayout.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Shared\\_SecondLayout.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAtwCgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:13:42.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "AracTamirRandevuMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAJgXAAAAAAAAAAAAAKQXAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-13T08:13:59.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminGirisi.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\AdminGirisi.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Views\\Giris\\AdminGirisi.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Views\\Giris\\AdminGirisi.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Views\\Giris\\AdminGirisi.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:11:28.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\Randevu\\Index.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\Randevu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\Randevu\\Index.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\Randevu\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T08:09:08.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YonetimPaneliController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\YonetimPaneliController.cs",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\YonetimPaneliController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\YonetimPaneliController.cs",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\YonetimPaneliController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:09:05.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RandevuController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\RandevuController.cs",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\RandevuController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\RandevuController.cs",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\RandevuController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:02:00.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\YonetimPaneli\\Index.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\YonetimPaneli\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\YonetimPaneli\\Index.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\YonetimPaneli\\Index.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAswDoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T07:52:52.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T07:52:46.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-13T07:47:26.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\WEB PROG \u00D6DEV\\AracTamirRandevuMVC\\AracTamirProje\\AracTamirRandevu\\AracTamirRandevu\\AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "AracTamirRandevuMVC\\Areas\\Admin\\Controllers\\UrunController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:45:48.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
