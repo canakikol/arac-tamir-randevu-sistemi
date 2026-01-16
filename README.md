@@ -113,11 +113,9 @@ Veritabanı ilişkisel olarak tasarlanmıştır ve Entity Framework Core kullan�
 
 
 \## 📽 Tanıtım Videosu
+
 https://youtu.be/gc3NwOrpLrY
 
-&nbsp;YouTube:  
-
-\[VIDEO LINKI BURAYA EKLENECEK]
 
 
 
